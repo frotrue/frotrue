@@ -7,9 +7,14 @@
           <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white">
           <br/></div>
     </div>
+  <div text-align: center;" align= "center">
+    
+  
   
   [![hits](https://myhits.vercel.app/api/hit/https%3A%2F%2Fgithub.com%2Ffrotrue?color=blue&label=hits&size=small)](https://myhits.vercel.app)  
   [![Solved.ac 프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=anwls0830)](https://solved.ac/anwls0830)
+
+  </div>
 
   <br>
 
