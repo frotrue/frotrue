@@ -17,11 +17,12 @@
   </div>
 
   <br>
+  <div text-align: center;" align= "center">
 
   ![Frotrue's GitHub stats](https://github-readme-stats.vercel.app/api?username=frotrue&count_private=true&show_icons=true&theme=dark)  
 
   <br>
 
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=frotrue&hide=Jupyter%20Notebook,HTML,CSS&show_icons=true&theme=dark)
-
+  </div>
 </p>
