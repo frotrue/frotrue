@@ -65,9 +65,13 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=frotrue&count_private=true&show_icons=true&theme=dark"/>
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=frotrue&show_icons=true&theme=dark&include_all_commits=true&hide_border=true"
+  />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=frotrue&hide=Jupyter%20Notebook,HTML,CSS&show_icons=true&theme=dark"/>
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=frotrue&layout=compact&hide=Jupyter%20Notebook,HTML,CSS&theme=dark&hide_border=true"
+  />
 </p>
