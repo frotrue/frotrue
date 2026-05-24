@@ -1,28 +1,73 @@
+<h1 align="center">Hi, I'm Frotrue 👋</h1>
+
 <p align="center">
-  <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🛠️ Tech Stacks </h2> <br> 
-    <div style="margin: 0 auto; text-align: center;" align= "center"> <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white">
-          <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=PyTorch&logoColor=white">
-          <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat&logo=Javascript&logoColor=white">
-          <img src="https://img.shields.io/badge/jQuery-0769AD?style=flat&logo=jQuery&logoColor=white">
-          <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white">
-          <br/></div>
-    </div>
-  <div text-align: center;" align= "center">
-    
-  
-  
-  [![hits](https://myhits.vercel.app/api/hit/https%3A%2F%2Fgithub.com%2Ffrotrue?color=blue&label=hits&size=small)](https://myhits.vercel.app)  
-  [![Solved.ac 프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=anwls0830)](https://solved.ac/anwls0830)
+  AI · Game Development · Software Engineering<br/>
+  I enjoy building practical projects from ideas to working prototypes.
+</p>
 
-  </div>
+<p align="center">
+  <a href="https://github.com/frotrue">
+    <img src="https://myhits.vercel.app/api/hit/https%3A%2F%2Fgithub.com%2Ffrotrue?color=blue&label=hits&size=small"/>
+  </a>
+</p>
 
-  <br>
-  <div text-align: center;" align= "center">
+---
 
-  ![Frotrue's GitHub stats](https://github-readme-stats.vercel.app/api?username=frotrue&count_private=true&show_icons=true&theme=dark)  
+## 👨‍💻 About Me
 
-  <br>
+- 🎓 Studying Software Engineering
+- 🤖 Interested in AI, Computer Vision, and Edge AI
+- 🎮 Building game projects with Phaser and Unreal Engine
+- 🧠 Practicing algorithm problem solving
+- 🛠️ Enjoy making practical prototypes
 
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=frotrue&hide=Jupyter%20Notebook,HTML,CSS&show_icons=true&theme=dark)
-  </div>
+---
+
+## 🛠️ Tech Stack
+
+### Languages
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black"/>
+<img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=OpenJDK&logoColor=white"/>
+
+### AI / ML
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white"/>
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=OpenCV&logoColor=white"/>
+
+### Web / Game
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black"/>
+<img src="https://img.shields.io/badge/Phaser-2EAD33?style=flat-square&logo=JavaScript&logoColor=white"/>
+<img src="https://img.shields.io/badge/Unreal Engine-313131?style=flat-square&logo=UnrealEngine&logoColor=white"/>
+
+---
+
+## 🚀 Projects
+
+| Project | Description | Tech |
+|---|---|---|
+| Neural Factory | Dark cyber grid-based tower defense / factory game | Phaser, JavaScript |
+| Road Hazard Detection System | Edge AI based road obstacle detection system | Python, AI, Mobile |
+| Sign Language Recognition | ASL recognition project using AI model | Python, OpenVINO |
+| AI Trash Sorting Bin | Automatic trash sorting bin using AI | Arduino, AI |
+
+---
+
+## 🧩 Algorithm
+
+<p align="center">
+  <a href="https://solved.ac/anwls0830">
+    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=anwls0830"/>
+  </a>
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=frotrue&count_private=true&show_icons=true&theme=dark"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=frotrue&hide=Jupyter%20Notebook,HTML,CSS&show_icons=true&theme=dark"/>
 </p>
