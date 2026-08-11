@@ -57,6 +57,7 @@
 ## 🤖 AI / LLM Usage
 
 I track my AI coding assistant usage with Tokscale.
+Most use a codex.
 
 [![Tokscale Stats](https://tokscale.ai/api/embed/frotrue/svg?tokens=full&cost=compact)](https://tokscale.ai/u/frotrue)
 ---
@@ -73,6 +74,6 @@ I track my AI coding assistant usage with Tokscale.
 
 ## 📊 GitHub Stats
 
-| GitHub Stats!                                                                                                                                                      | Top Languages                                                                                                                                                                        |
+| GitHub Stats                                                                                                                                                      | Top Languages                                                                                                                                                                        |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 | <img src="https://github-readme-stats.vercel.app/api?username=frotrue&show_icons=true&theme=dark&include_all_commits=true&hide_border=true" alt="GitHub stats" /> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=frotrue&layout=compact&hide=Jupyter%20Notebook,HTML,CSS&theme=dark&hide_border=true" alt="Top languages" /> |
