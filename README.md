@@ -27,6 +27,8 @@
 
 | Project | What it does | Tech |
 | --- | --- | --- |
+| [**corectl**](https://store.steampowered.com/app/4963500/corectl/) | Released 2D roguelite tower defense game | Phaser, TypeScript, CEF/D3D11 |
+| [**ETS2 Lane Guide**](https://github.com/frotrue/ets2-lane-guide) | In-game navigation, lane, and traffic signal HUD for ETS2 | C++, DX11 |
 | [**AI2D Runtime**](https://github.com/frotrue/ai2d-runtime) | Runtime for declarative, AI-authored 2D games | C++23, SDL3, Vulkan |
 | [**Smart Crack Detection**](https://github.com/frotrue/smart_crack_detection) | Detects building damage and assists with risk analysis | Python, YOLOv8, PyQt6 |
 | [**Road Hazard Segmentation**](https://github.com/frotrue/yolov8_seg_CodeAndDatasets) | Segments road cracks, potholes, and sinkholes | Python, YOLOv8 |
