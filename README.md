@@ -2,7 +2,7 @@
 
 <p align="center">
   AI · Game Development · Software Engineering<br/>
-  I turn AI ideas, game mechanics, and software concepts into working prototypes.
+  I build computer vision tools, games, and developer software.
 </p>
 
 <p align="center">
@@ -16,8 +16,8 @@
 ## 👨‍💻 About Me
 
 * 🎓 Studying Software Engineering
-* 🤖 Building practical AI prototypes with Computer Vision and Edge AI
-* 🎮 Developing game projects with Phaser and Unreal Engine
+* 🤖 Building computer vision apps and AI-powered tools
+* 🎮 Developing games and game runtimes with Godot, Phaser, and C++
 * 🧠 Practicing algorithms and software engineering fundamentals
 * 🛠️ I enjoy turning rough ideas into usable MVPs and prototypes
 
@@ -25,12 +25,14 @@
 
 ## 🚀 Featured Projects
 
-| Project                          | What it does                                                   | Tech                 |
-| -------------------------------- | -------------------------------------------------------------- | -------------------- |
-| **Neural Factory**               | Grid-based factory + tower defense game with AI-themed systems | Phaser, JavaScript   |
-| **Road Hazard Detection System** | Detects road cracks, potholes, and road hazards using Edge AI  | Python, YOLO, Mobile |
-| **Sign Language Recognition**    | Recognizes ASL gestures using an AI model                      | Python, OpenVINO     |
-| **AI Trash Sorting Bin**         | Classifies and sorts trash automatically with AI and hardware  | Arduino, AI          |
+| Project | What it does | Tech |
+| --- | --- | --- |
+| [**AI2D Runtime**](https://github.com/frotrue/ai2d-runtime) | Runtime for declarative, AI-authored 2D games | C++23, SDL3, Vulkan |
+| [**Smart Crack Detection**](https://github.com/frotrue/smart_crack_detection) | Detects building damage and assists with risk analysis | Python, YOLOv8, PyQt6 |
+| [**Road Hazard Segmentation**](https://github.com/frotrue/yolov8_seg_CodeAndDatasets) | Segments road cracks, potholes, and sinkholes | Python, YOLOv8 |
+| [**LectureScribe**](https://github.com/frotrue/LectureScribe) | Transcribes lectures locally and optionally summarizes notes | Python, faster-whisper, PyQt6 |
+| [**Nightwatch Array**](https://github.com/frotrue/nightwatch-array) | Incremental game about growing an observatory | Godot, GDScript |
+| [**Gradium**](https://github.com/frotrue/factor) | Factory-building tower defense game | Phaser, TypeScript |
 
 ---
 
@@ -40,6 +42,8 @@
 
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white" alt="Python"/>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black" alt="JavaScript"/>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white" alt="TypeScript"/>
+<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white" alt="C++"/>
 <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=OpenJDK&logoColor=white" alt="Java"/>
 
 ### AI / ML
@@ -50,6 +54,7 @@
 ### Web / Game
 
 <img src="https://img.shields.io/badge/Phaser-2EAD33?style=flat-square&logo=JavaScript&logoColor=white" alt="Phaser"/>
+<img src="https://img.shields.io/badge/Godot-478CBF?style=flat-square&logo=GodotEngine&logoColor=white" alt="Godot"/>
 <img src="https://img.shields.io/badge/Unreal%20Engine-313131?style=flat-square&logo=UnrealEngine&logoColor=white" alt="Unreal Engine"/>
 
 ---
@@ -57,9 +62,10 @@
 ## 🤖 AI / LLM Usage
 
 I track my AI coding assistant usage with Tokscale.
-Most use a codex.
+I mainly use Codex for AI-assisted development.
 
 [![Tokscale Stats](https://tokscale.ai/api/embed/frotrue/svg?tokens=full&cost=compact)](https://tokscale.ai/u/frotrue)
+
 ---
 
 ## 🧩 Algorithm
