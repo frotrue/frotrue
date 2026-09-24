@@ -17,6 +17,10 @@
   <a href="https://github.com/frotrue?tab=repositories">All repositories</a>
 </p>
 
+<p align="center">
+  Inquiries · <a href="mailto:frotrue.dev@gmail.com">frotrue.dev@gmail.com</a>
+</p>
+
 ## Selected work
 
 ### corectl
