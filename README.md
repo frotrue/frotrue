@@ -1,87 +1,117 @@
-<h1 align="center">Hi, I'm Frotrue 👋</h1>
+<h1 align="center">Frotrue</h1>
 
 <p align="center">
-  AI · Game Development · Software Engineering<br/>
-  I build computer vision tools, games, and developer software.
+  <strong>I build games, computer vision apps, and developer tools.</strong><br>
+  Software engineering student, exploring the path from an idea to a working product.
 </p>
 
 <p align="center">
-  <a href="https://github.com/frotrue">
-    <img src="https://myhits.vercel.app/api/hit/https%3A%2F%2Fgithub.com%2Ffrotrue?color=blue&label=hits&size=small" alt="Profile hits"/>
-  </a>
+  <a href="https://store.steampowered.com/app/4963500/corectl/"><strong>Steam release · corectl</strong></a>
+  &nbsp; / &nbsp;
+  <a href="https://github.com/frotrue/smart_crack_detection"><strong>2025 경기창고 · 우수상</strong></a>
 </p>
-
----
-
-## 👨‍💻 About Me
-
-* 🎓 Studying Software Engineering
-* 🤖 Building computer vision apps and AI-powered tools
-* 🎮 Developing games and game runtimes with Godot, Phaser, and C++
-* 🧠 Practicing algorithms and software engineering fundamentals
-* 🛠️ I enjoy turning rough ideas into usable MVPs and prototypes
-
----
-
-## 🚀 Featured Projects
-
-| Project | What it does | Tech |
-| --- | --- | --- |
-| [**corectl**](https://store.steampowered.com/app/4963500/corectl/) | Released 2D roguelite tower defense game | Phaser, TypeScript, CEF/D3D11 |
-| [**ETS2 Lane Guide**](https://github.com/frotrue/ets2-lane-guide) | In-game navigation, lane, and traffic signal HUD for ETS2 | C++, DX11 |
-| [**AI2D Runtime**](https://github.com/frotrue/ai2d-runtime) | Runtime for declarative, AI-authored 2D games | C++23, SDL3, Vulkan |
-| [**Smart Crack Detection**](https://github.com/frotrue/smart_crack_detection) | Detects building damage and assists with risk analysis | Python, YOLOv8, PyQt6 |
-| [**Road Hazard Segmentation**](https://github.com/frotrue/yolov8_seg_CodeAndDatasets) | Segments road cracks, potholes, and sinkholes | Python, YOLOv8 |
-| [**LectureScribe**](https://github.com/frotrue/LectureScribe) | Transcribes lectures locally and optionally summarizes notes | Python, faster-whisper, PyQt6 |
-| [**Nightwatch Array**](https://github.com/frotrue/nightwatch-array) | Incremental game about growing an observatory | Godot, GDScript |
-| [**Gradium**](https://github.com/frotrue/factor) | Factory-building tower defense game | Phaser, TypeScript |
-
----
-
-## 🛠️ Tech Stack
-
-### Languages
-
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white" alt="Python"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black" alt="JavaScript"/>
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white" alt="TypeScript"/>
-<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white" alt="C++"/>
-<img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=OpenJDK&logoColor=white" alt="Java"/>
-
-### AI / ML
-
-<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white" alt="PyTorch"/>
-<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=OpenCV&logoColor=white" alt="OpenCV"/>
-
-### Web / Game
-
-<img src="https://img.shields.io/badge/Phaser-2EAD33?style=flat-square&logo=JavaScript&logoColor=white" alt="Phaser"/>
-<img src="https://img.shields.io/badge/Godot-478CBF?style=flat-square&logo=GodotEngine&logoColor=white" alt="Godot"/>
-<img src="https://img.shields.io/badge/Unreal%20Engine-313131?style=flat-square&logo=UnrealEngine&logoColor=white" alt="Unreal Engine"/>
-
----
-
-## 🤖 AI / LLM Usage
-
-I track my AI coding assistant usage with Tokscale.
-I mainly use Codex for AI-assisted development.
-
-[![Tokscale Stats](https://tokscale.ai/api/embed/frotrue/svg?tokens=full&cost=compact)](https://tokscale.ai/u/frotrue)
-
----
-
-## 🧩 Algorithm
 
 <p align="center">
-  <a href="https://solved.ac/anwls0830">
-    <img src="https://mazassumnida.wtf/api/v2/generate_badge?boj=anwls0830" alt="Solved.ac profile badge"/>
-  </a>
+  <a href="#selected-work">Selected work</a> ·
+  <a href="#how-i-build">How I build</a> ·
+  <a href="https://github.com/frotrue?tab=repositories">All repositories</a>
 </p>
 
----
+## Selected work
 
-## 📊 GitHub Stats
+### corectl
+**Released on Steam · August 2026**
 
-| GitHub Stats                                                                                                                                                      | Top Languages                                                                                                                                                                        |
-| ----------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| <img src="https://github-readme-stats.vercel.app/api?username=frotrue&show_icons=true&theme=dark&include_all_commits=true&hide_border=true" alt="GitHub stats" /> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=frotrue&layout=compact&hide=Jupyter%20Notebook,HTML,CSS&theme=dark&hide_border=true" alt="Top languages" /> |
+A 2D roguelite tower defense game built around route design, building loadouts, and upgrade synergies. Developed and published under Frotrue.
+
+<a href="https://store.steampowered.com/app/4963500/corectl/">
+  <img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4963500/98e9f6b2c700233ab8756482d65259cde633c299/ss_98e9f6b2c700233ab8756482d65259cde633c299.1920x1080.jpg?t=1785913389" alt="corectl gameplay screenshot from the Steam store" width="800">
+</a>
+
+`Phaser` `TypeScript` `CEF / D3D11`  
+[View on Steam →](https://store.steampowered.com/app/4963500/corectl/)
+
+### Smart Crack Detection
+**Award-winning prototype · 2025 경기창고 AI Hackathon, 우수상**
+
+Building-damage detection with YOLOv8 segmentation and a PyQt6 desktop interface. The broader competition project combined AI software with Raspberry Pi / NPU hardware and a custom 3D-printed enclosure.
+
+<a href="https://github.com/frotrue/smart_crack_detection">
+  <img src="https://raw.githubusercontent.com/frotrue/smart_crack_detection/ab77aa3a08d6c55a7c12fc135e1c9ed288515401/img/img1.png" alt="Smart Crack Detection desktop application preview" width="600">
+</a>
+
+`Python` `YOLOv8` `OpenCV` `PyQt6`  
+[Explore the project →](https://github.com/frotrue/smart_crack_detection)
+
+### AI2D Runtime
+**Experimental runtime · C++23 / SDL3 / Vulkan**
+
+A focused runtime for declarative, AI-authored 2D games. JSON game specifications compile into validated execution plans, with deterministic simulation, instanced rendering, and repeatable validation.
+
+`C++23` `SDL3` `Vulkan`  
+[Source →](https://github.com/frotrue/ai2d-runtime) · [Architecture →](https://github.com/frotrue/ai2d-runtime/blob/main/docs/architecture/overview.md)
+
+### Nightwatch Array
+**In development · PC browser playtest**
+
+A short incremental game about observing the night sky and growing an observatory. Constellation research, new celestial objects, and observation upgrades shape its progression.
+
+`Godot` `GDScript`  
+[Play in your browser →](https://frotrue.github.io/nightwatch-array/) · [Source →](https://github.com/frotrue/nightwatch-array)
+
+<details>
+<summary><strong>More projects</strong> — desktop tools, game extensions, and experiments</summary>
+
+- [**LectureScribe**](https://github.com/frotrue/LectureScribe) — Local lecture transcription, with optional note summarization. Python / faster-whisper / PyQt6.
+- [**ETS2 Lane Guide**](https://github.com/frotrue/ets2-lane-guide) — An experimental in-game navigation, lane, and traffic-signal HUD. C++ / DX11.
+- [**Road Hazard Segmentation**](https://github.com/frotrue/yolov8_seg_CodeAndDatasets) — Segmentation of road cracks, potholes, and sinkholes. Python / YOLOv8.
+- [**Gradium**](https://github.com/frotrue/factor) — A factory-building tower defense project. Phaser / TypeScript.
+
+</details>
+
+## How I build
+
+I use AI coding assistants, primarily Codex, throughout development. My focus is on defining the behavior, reviewing the result, and checking it against tests and real use.
+
+- **Define the system.** Keep requirements, constraints, and architecture decisions explicit.
+- **Verify the implementation.** Use regression tests, reproducible scenarios, and performance measurements.
+- **Refine the experience.** Iterate on controls, interfaces, and progression through playtesting and everyday use.
+
+Examples: [AI2D architecture and constraints](https://github.com/frotrue/ai2d-runtime/blob/main/docs/architecture/overview.md) · [Nightwatch economy simulator](https://github.com/frotrue/nightwatch-array/blob/main/docs/economy-simulator.md)
+
+## Tools I work with
+
+**Languages** · Python, TypeScript / JavaScript, C++, GDScript  
+**Computer vision & desktop** · YOLOv8, PyTorch, OpenCV, PyQt6  
+**Games & graphics** · Godot, Phaser, SDL3, Vulkan, DirectX 11
+
+<details>
+<summary><strong>Activity &amp; learning</strong> — GitHub, algorithms, and AI usage</summary>
+
+### GitHub
+
+<p>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=frotrue&amp;show_icons=true&amp;theme=github_dark&amp;include_all_commits=true&amp;hide_border=true">
+    <img src="https://github-readme-stats.vercel.app/api?username=frotrue&amp;show_icons=true&amp;include_all_commits=true&amp;hide_border=true" alt="Frotrue's GitHub activity stats" width="420">
+  </picture>
+</p>
+
+<p>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=frotrue&amp;layout=compact&amp;hide=Jupyter%20Notebook,HTML,CSS&amp;theme=github_dark&amp;hide_border=true">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=frotrue&amp;layout=compact&amp;hide=Jupyter%20Notebook,HTML,CSS&amp;hide_border=true" alt="Languages across Frotrue's repositories" width="360">
+  </picture>
+</p>
+
+### Algorithms
+
+[![Solved.ac profile](https://mazassumnida.wtf/api/v2/generate_badge?boj=anwls0830)](https://solved.ac/anwls0830)
+
+### AI coding assistant usage
+
+Tracked with [Tokscale](https://tokscale.ai/u/frotrue).
+
+[![Tokscale usage stats](https://tokscale.ai/api/embed/frotrue/svg?tokens=full&cost=compact)](https://tokscale.ai/u/frotrue)
+
+</details>
