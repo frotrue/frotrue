@@ -1,120 +1,105 @@
-<h1 align="center">Frotrue</h1>
-
-<p align="center">
-  <strong>I build games, computer vision apps, and developer tools.</strong><br>
-  Software engineering student, exploring the path from an idea to a working product.
-</p>
-
-<p align="center">
-  <a href="https://store.steampowered.com/app/4963500/corectl/"><strong>Steam release · corectl</strong></a>
-  &nbsp; / &nbsp;
-  <a href="https://github.com/frotrue/smart_crack_detection"><strong>2025 경기창고 · 우수상</strong></a>
-</p>
-
-<p align="center">
-  <a href="#selected-work">Selected work</a> ·
-  <a href="#how-i-build">How I build</a> ·
-  <a href="https://github.com/frotrue?tab=repositories">All repositories</a>
-</p>
-
-<p align="center">
-  Inquiries · <a href="mailto:frotrue.dev@gmail.com">frotrue.dev@gmail.com</a>
-</p>
-
-## Selected work
-
-### corectl
-**Released on Steam · August 2026**
-
-A 2D roguelite tower defense game built around route design, building loadouts, and upgrade synergies. Developed and published under Frotrue.
-
-<a href="https://store.steampowered.com/app/4963500/corectl/">
-  <img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4963500/98e9f6b2c700233ab8756482d65259cde633c299/ss_98e9f6b2c700233ab8756482d65259cde633c299.1920x1080.jpg?t=1785913389" alt="corectl gameplay screenshot from the Steam store" width="800">
+<a href="https://frotrue.github.io/frotrue/">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/header-dark.svg">
+    <img src="assets/header-light.svg" alt="Frotrue — games, computer vision apps, and developer tools" width="100%">
+  </picture>
 </a>
 
-`Phaser` `TypeScript` `CEF / D3D11`  
-[View on Steam →](https://store.steampowered.com/app/4963500/corectl/)
+<p align="center">
+  <a href="https://store.steampowered.com/app/4963500/corectl/"><img src="https://img.shields.io/badge/Steam-corectl-1b2838?style=flat-square&logo=steam&logoColor=white" alt="corectl on Steam"></a>
+  <a href="https://github.com/frotrue/smart_crack_detection"><img src="https://img.shields.io/badge/2025_경기창고-우수상-b8a6ff?style=flat-square" alt="2025 경기창고 AI Hackathon, 우수상"></a>
+  <a href="https://frotrue.github.io/frotrue/"><img src="https://img.shields.io/badge/Website-frotrue.github.io-a1f1d6?style=flat-square&logo=githubpages&logoColor=0a0b11" alt="Website"></a>
+  <a href="mailto:frotrue.dev@gmail.com"><img src="https://img.shields.io/badge/Email-frotrue.dev-ea4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
+</p>
 
-### Smart Crack Detection
-**Award-winning prototype · 2025 경기창고 AI Hackathon, 우수상**
+Software engineering student who likes taking an idea all the way to something shippable — a game on Steam, a desktop app, a phone widget. Most of what I make starts as a tool I wanted for myself.
 
-Building-damage detection with YOLOv8 segmentation and a PyQt6 desktop interface. The broader competition project combined AI software with Raspberry Pi / NPU hardware and a custom 3D-printed enclosure.
+- 🎮 **Shipped** [corectl](https://store.steampowered.com/app/4963500/corectl/), a 2D roguelite tower defense, on Steam (Aug 2026)
+- 🔭 **Building** [Nightwatch Array](https://github.com/frotrue/nightwatch-array), an incremental game about a night-sky observatory
+- 🧪 **Exploring** [AI2D Runtime](https://github.com/frotrue/ai2d-runtime) — can AI-authored game specs compile into deterministic, testable games?
 
-<a href="https://github.com/frotrue/smart_crack_detection">
-  <img src="https://raw.githubusercontent.com/frotrue/smart_crack_detection/ab77aa3a08d6c55a7c12fc135e1c9ed288515401/img/img1.png" alt="Smart Crack Detection desktop application preview" width="600">
-</a>
+## Featured
 
-`Python` `YOLOv8` `OpenCV` `PyQt6`  
-[Explore the project →](https://github.com/frotrue/smart_crack_detection)
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://store.steampowered.com/app/4963500/corectl/"><img src="https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4963500/b10f20f2d83cf27a86e991d6d566d87fde90815b/ss_b10f20f2d83cf27a86e991d6d566d87fde90815b.1920x1080.jpg?t=1785913389" alt="corectl gameplay" width="100%"></a>
+      <h3><a href="https://store.steampowered.com/app/4963500/corectl/">corectl</a></h3>
+      <sub><b>Released on Steam</b> · Phaser · TypeScript · CEF / D3D11</sub>
+      <p>Roguelite tower defense about rerouting enemies from three entry zones, limited building loadouts, and wave-reward synergies. Designed, built, and published solo.</p>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://github.com/frotrue/smart_crack_detection"><img src="assets/smart-crack.jpg" alt="Smart Crack Detection results" width="100%"></a>
+      <h3><a href="https://github.com/frotrue/smart_crack_detection">Smart Crack Detection</a></h3>
+      <sub><b>우수상 · 2025 경기창고 AI Hackathon</b> · YOLOv8 · OpenCV · PyQt6</sub>
+      <p>Segments cracks and spalling on buildings and scores the risk. The full entry paired it with Raspberry Pi / NPU hardware in a custom 3D-printed enclosure.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://github.com/frotrue/token-view"><img src="assets/token-view.jpg" alt="Token View" width="100%"></a>
+      <h3><a href="https://github.com/frotrue/token-view">Token View</a></h3>
+      <sub><b>Windows + Android</b> · Tauri · TypeScript</sub>
+      <p>Tracks Claude Code and Codex token usage, API-equivalent cost, and rate limits — and predicts when you'll run out. Syncs to your own Google Drive, no server.</p>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://github.com/frotrue/LectureScribe"><img src="assets/lecturescribe.jpg" alt="LectureScribe interface" width="100%"></a>
+      <h3><a href="https://github.com/frotrue/LectureScribe">LectureScribe</a></h3>
+      <sub><b>Desktop app</b> · Python · faster-whisper · PyQt6</sub>
+      <p>Drop in a lecture recording and get a local Whisper transcript (TXT / Markdown / SRT), with optional study-note summaries. CPU and GPU presets, plus a batch CLI.</p>
+    </td>
+  </tr>
+</table>
 
-### AI2D Runtime
-**Experimental runtime · C++23 / SDL3 / Vulkan**
+## More things I've made
 
-A focused runtime for declarative, AI-authored 2D games. JSON game specifications compile into validated execution plans, with deterministic simulation, instanced rendering, and repeatable validation.
-
-`C++23` `SDL3` `Vulkan`  
-[Source →](https://github.com/frotrue/ai2d-runtime) · [Architecture →](https://github.com/frotrue/ai2d-runtime/blob/main/docs/architecture/overview.md)
-
-### Nightwatch Array
-**In development · PC browser playtest**
-
-A short incremental game about observing the night sky and growing an observatory. Constellation research, new celestial objects, and observation upgrades shape its progression.
-
-`Godot` `GDScript`  
-[Play in your browser →](https://frotrue.github.io/nightwatch-array/) · [Source →](https://github.com/frotrue/nightwatch-array)
-
-<details>
-<summary><strong>More projects</strong> — desktop tools, game extensions, and experiments</summary>
-
-- [**LectureScribe**](https://github.com/frotrue/LectureScribe) — Local lecture transcription, with optional note summarization. Python / faster-whisper / PyQt6.
-- [**ETS2 Lane Guide**](https://github.com/frotrue/ets2-lane-guide) — An experimental in-game navigation, lane, and traffic-signal HUD. C++ / DX11.
-- [**Road Hazard Segmentation**](https://github.com/frotrue/yolov8_seg_CodeAndDatasets) — Segmentation of road cracks, potholes, and sinkholes. Python / YOLOv8.
-- [**Gradium**](https://github.com/frotrue/factor) — A factory-building tower defense project. Phaser / TypeScript.
-
-</details>
+| | Project | What it is | Stack |
+|:-:|---|---|---|
+| 🔭 | [**Nightwatch Array**](https://github.com/frotrue/nightwatch-array) · [play ↗](https://frotrue.github.io/nightwatch-array/) | Short incremental game — observe the sky, work through 162 research nodes, grow an observatory | Godot · GDScript |
+| ⚙️ | [**AI2D Runtime**](https://github.com/frotrue/ai2d-runtime) · [arch ↗](https://github.com/frotrue/ai2d-runtime/blob/main/docs/architecture/overview.md) | JSON game specs → validated execution plans, deterministic sim, instanced rendering | C++23 · SDL3 · Vulkan |
+| 🚚 | [**ETS2 Lane Guide**](https://github.com/frotrue/ets2-lane-guide) | In-game lane, turn, and traffic-signal HUD for Euro Truck Simulator 2, drawn in a DX11 plugin | C++ · DirectX 11 |
+| 📊 | [**Codex Quota**](https://github.com/frotrue/codex_usage_moblie) | Android home-screen widget for Codex limits with burn-rate forecasts | Java · Android |
+| 🎵 | [**YTM Lyrics Following**](https://github.com/frotrue/ytm-lyrics-following) | Synced, auto-scrolling lyrics for YouTube Music (Firefox / Chromium) | WebExtension · JS |
+| 🔁 | [**DeepSeek Handoff**](https://github.com/frotrue/deepseek-handoff) | Codex skill that hands a bounded task to a local DeepSeek worker and resumes for review | Node.js |
+| 🛣️ | [**Road Hazard Segmentation**](https://github.com/frotrue/yolov8_seg_CodeAndDatasets) | Cracks, potholes, and sinkholes from road imagery | YOLOv8 |
+| 🏭 | [**Gradium**](https://github.com/frotrue/factor) | Factory-building tower defense prototype | Phaser · TypeScript |
 
 ## How I build
 
-I use AI coding assistants, primarily Codex, throughout development. My focus is on defining the behavior, reviewing the result, and checking it against tests and real use.
+I work with AI coding assistants every day, mostly Codex. My job is to define the behavior, review what comes back, and prove it works.
 
-- **Define the system.** Keep requirements, constraints, and architecture decisions explicit.
-- **Verify the implementation.** Use regression tests, reproducible scenarios, and performance measurements.
-- **Refine the experience.** Iterate on controls, interfaces, and progression through playtesting and everyday use.
+- **Define the system** — requirements, constraints, and architecture decisions written down, not implied.
+- **Verify the implementation** — regression tests, reproducible scenarios, real measurements.
+- **Refine the experience** — playtesting and daily use drive controls, UI, and progression.
 
-Examples: [AI2D architecture and constraints](https://github.com/frotrue/ai2d-runtime/blob/main/docs/architecture/overview.md) · [Nightwatch economy simulator](https://github.com/frotrue/nightwatch-array/blob/main/docs/economy-simulator.md)
+<sub>Examples: [AI2D architecture & constraints](https://github.com/frotrue/ai2d-runtime/blob/main/docs/architecture/overview.md) · [Nightwatch economy simulator](https://github.com/frotrue/nightwatch-array/blob/main/docs/economy-simulator.md)</sub>
 
-## Tools I work with
+## Stack
 
-**Languages** · Python, TypeScript / JavaScript, C++, GDScript  
-**Computer vision & desktop** · YOLOv8, PyTorch, OpenCV, PyQt6  
-**Games & graphics** · Godot, Phaser, SDL3, Vulkan, DirectX 11
+<p>
+  <img src="https://skillicons.dev/icons?i=py,ts,js,cpp,java&perline=12" alt="Python, TypeScript, JavaScript, C++, Java" height="40">
+  &nbsp;
+  <img src="https://skillicons.dev/icons?i=pytorch,opencv,qt&perline=12" alt="PyTorch, OpenCV, Qt" height="40">
+  &nbsp;
+  <img src="https://skillicons.dev/icons?i=godot,tauri,vue,androidstudio,raspberrypi&perline=12" alt="Godot, Tauri, Vue, Android Studio, Raspberry Pi" height="40">
+</p>
+
+<sub>Also: YOLOv8 · Phaser · SDL3 · Vulkan · DirectX 11 · GDScript · Capacitor</sub>
+
+## Activity
 
 <details>
-<summary><strong>Activity &amp; learning</strong> — GitHub, algorithms, and AI usage</summary>
+<summary><b>GitHub, algorithms, and AI usage</b></summary>
+<br>
 
-### GitHub
-
-<p>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=frotrue&amp;show_icons=true&amp;theme=github_dark&amp;include_all_commits=true&amp;hide_border=true">
-    <img src="https://github-readme-stats.vercel.app/api?username=frotrue&amp;show_icons=true&amp;include_all_commits=true&amp;hide_border=true" alt="Frotrue's GitHub activity stats" width="420">
-  </picture>
-</p>
-
-<p>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=frotrue&amp;layout=compact&amp;hide=Jupyter%20Notebook,HTML,CSS&amp;theme=github_dark&amp;hide_border=true">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=frotrue&amp;layout=compact&amp;hide=Jupyter%20Notebook,HTML,CSS&amp;hide_border=true" alt="Languages across Frotrue's repositories" width="360">
-  </picture>
-</p>
-
-### Algorithms
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=frotrue&amp;show_icons=true&amp;theme=github_dark&amp;include_all_commits=true&amp;hide_border=true">
+  <img src="https://github-readme-stats.vercel.app/api?username=frotrue&amp;show_icons=true&amp;include_all_commits=true&amp;hide_border=true" alt="Frotrue's GitHub stats" width="420">
+</picture>
 
 [![Solved.ac profile](https://mazassumnida.wtf/api/v2/generate_badge?boj=anwls0830)](https://solved.ac/anwls0830)
 
-### AI coding assistant usage
-
-Tracked with [Tokscale](https://tokscale.ai/u/frotrue).
+AI coding assistant usage, tracked with [Tokscale](https://tokscale.ai/u/frotrue):
 
 [![Tokscale usage stats](https://tokscale.ai/api/embed/frotrue/svg?tokens=full&cost=compact)](https://tokscale.ai/u/frotrue)
 
