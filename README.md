@@ -7,7 +7,6 @@
 
 <p align="center">
   <a href="https://store.steampowered.com/app/4963500/corectl/"><img src="https://img.shields.io/badge/Steam-corectl-1b2838?style=flat-square&logo=steam&logoColor=white" alt="corectl on Steam"></a>
-  <a href="https://github.com/frotrue/smart_crack_detection"><img src="https://img.shields.io/badge/2025_경기창고-우수상-b8a6ff?style=flat-square" alt="2025 경기창고 AI Hackathon, 우수상"></a>
   <a href="https://frotrue.github.io/frotrue/"><img src="https://img.shields.io/badge/Website-frotrue.github.io-a1f1d6?style=flat-square&logo=githubpages&logoColor=0a0b11" alt="Website"></a>
   <a href="mailto:frotrue.dev@gmail.com"><img src="https://img.shields.io/badge/Email-frotrue.dev-ea4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
 </p>
@@ -31,7 +30,7 @@ Software engineering student who likes taking an idea all the way to something s
     <td width="50%" valign="top">
       <a href="https://github.com/frotrue/smart_crack_detection"><img src="assets/smart-crack.jpg" alt="Smart Crack Detection results" width="100%"></a>
       <h3><a href="https://github.com/frotrue/smart_crack_detection">Smart Crack Detection</a></h3>
-      <sub><b>우수상 · 2025 경기창고 AI Hackathon</b> · YOLOv8 · OpenCV · PyQt6</sub>
+      <sub> YOLOv8 · OpenCV · PyQt6</sub>
       <p>Segments cracks and spalling on buildings and scores the risk. The full entry paired it with Raspberry Pi / NPU hardware in a custom 3D-printed enclosure.</p>
     </td>
   </tr>
