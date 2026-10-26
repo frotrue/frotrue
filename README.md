@@ -98,9 +98,6 @@ I work with AI coding assistants every day, mostly Codex. My job is to define th
 
 [![Solved.ac profile](https://mazassumnida.wtf/api/v2/generate_badge?boj=anwls0830)](https://solved.ac/anwls0830)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username={사용자이름}&layout=compact)
-
-
 AI coding assistant usage, tracked with [Tokscale](https://tokscale.ai/u/frotrue):
 
 </details>
