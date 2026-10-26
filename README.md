@@ -103,6 +103,4 @@ I work with AI coding assistants every day, mostly Codex. My job is to define th
 
 AI coding assistant usage, tracked with [Tokscale](https://tokscale.ai/u/frotrue):
 
-[![Tokscale usage stats](https://tokscale.ai/api/embed/frotrue/svg?tokens=full&cost=compact)](https://tokscale.ai/u/frotrue)
-
 </details>
