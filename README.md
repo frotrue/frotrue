@@ -6,6 +6,7 @@
 </a>
 
 <p align="center">
+  <a href="https://store.steampowered.com/app/5358580/Give_Us_Back_Gravity/"><img src="https://img.shields.io/badge/Steam-Give_Us_Back_Gravity-1b2838?style=flat-square&logo=steam&logoColor=white" alt="Give Us Back Gravity on Steam"></a>
   <a href="https://store.steampowered.com/app/4963500/corectl/"><img src="https://img.shields.io/badge/Steam-corectl-1b2838?style=flat-square&logo=steam&logoColor=white" alt="corectl on Steam"></a>
   <a href="https://frotrue.github.io/frotrue/"><img src="https://img.shields.io/badge/Website-frotrue.github.io-a1f1d6?style=flat-square&logo=githubpages&logoColor=0a0b11" alt="Website"></a>
   <a href="mailto:frotrue.dev@gmail.com"><img src="https://img.shields.io/badge/Email-frotrue.dev-ea4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
@@ -13,6 +14,7 @@
 
 Software engineering student who likes taking an idea all the way to something shippable — a game on Steam, a desktop app, a phone widget. Most of what I make starts as a tool I wanted for myself.
 
+- 🚀 **Just launched** [Give Us Back Gravity (중력 돌려줘요)](https://store.steampowered.com/app/5358580/Give_Us_Back_Gravity/), a zero-gravity salvage roguelite with up to 4-player co-op, on Steam and STOVE (Oct 26, 2026 KST)
 - 🎮 **Shipped** [corectl](https://store.steampowered.com/app/4963500/corectl/), a 2D roguelite tower defense, on Steam (Aug 2026)
 - 🔭 **Building** [Nightwatch Array](https://github.com/frotrue/nightwatch-array), an incremental game about a night-sky observatory
 - 🧪 **Exploring** [AI2D Runtime](https://github.com/frotrue/ai2d-runtime) — can AI-authored game specs compile into deterministic, testable games?
@@ -22,16 +24,16 @@ Software engineering student who likes taking an idea all the way to something s
 <table>
   <tr>
     <td width="50%" valign="top">
+      <a href="https://store.steampowered.com/app/5358580/Give_Us_Back_Gravity/"><img src="assets/give-us-back-gravity.jpg" alt="Give Us Back Gravity gameplay — drifting through a derelict station's reactor sector" width="100%"></a>
+      <h3><a href="https://store.steampowered.com/app/5358580/Give_Us_Back_Gravity/">Give Us Back Gravity</a> <sub>중력 돌려줘요</sub></h3>
+      <sub><b>New · Steam &amp; STOVE</b> · JavaScript · Electron · Steamworks</sub>
+      <p>Zero-gravity push-your-luck salvage roguelite. You can't brake — kick off walls or throw your own cargo to steer, and loot only counts if you make it back to the airlock. Solo or 4-player online co-op.</p>
+    </td>
+    <td width="50%" valign="top">
       <a href="https://store.steampowered.com/app/4963500/corectl/"><img src="https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4963500/b10f20f2d83cf27a86e991d6d566d87fde90815b/ss_b10f20f2d83cf27a86e991d6d566d87fde90815b.1920x1080.jpg?t=1785913389" alt="corectl gameplay" width="100%"></a>
       <h3><a href="https://store.steampowered.com/app/4963500/corectl/">corectl</a></h3>
       <sub><b>Released on Steam</b> · Phaser · TypeScript · CEF / D3D11</sub>
       <p>Roguelite tower defense about rerouting enemies from three entry zones, limited building loadouts, and wave-reward synergies. Designed, built, and published solo.</p>
-    </td>
-    <td width="50%" valign="top">
-      <a href="https://github.com/frotrue/smart_crack_detection"><img src="assets/smart-crack.jpg" alt="Smart Crack Detection results" width="100%"></a>
-      <h3><a href="https://github.com/frotrue/smart_crack_detection">Smart Crack Detection</a></h3>
-      <sub> YOLOv8 · OpenCV · PyQt6</sub>
-      <p>Segments cracks and spalling on buildings and scores the risk. The full entry paired it with Raspberry Pi / NPU hardware in a custom 3D-printed enclosure.</p>
     </td>
   </tr>
   <tr>
